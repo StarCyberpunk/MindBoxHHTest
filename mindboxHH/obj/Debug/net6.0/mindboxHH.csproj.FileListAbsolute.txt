@@ -1,0 +1,12 @@
+C:\Users\notma\source\repos\mindboxHH\mindboxHH\bin\Debug\net6.0\mindboxHH.deps.json
+C:\Users\notma\source\repos\mindboxHH\mindboxHH\bin\Debug\net6.0\mindboxHH.dll
+C:\Users\notma\source\repos\mindboxHH\mindboxHH\bin\Debug\net6.0\mindboxHH.pdb
+C:\Users\notma\source\repos\mindboxHH\mindboxHH\obj\Debug\net6.0\mindboxHH.csproj.AssemblyReference.cache
+C:\Users\notma\source\repos\mindboxHH\mindboxHH\obj\Debug\net6.0\mindboxHH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\notma\source\repos\mindboxHH\mindboxHH\obj\Debug\net6.0\mindboxHH.AssemblyInfoInputs.cache
+C:\Users\notma\source\repos\mindboxHH\mindboxHH\obj\Debug\net6.0\mindboxHH.AssemblyInfo.cs
+C:\Users\notma\source\repos\mindboxHH\mindboxHH\obj\Debug\net6.0\mindboxHH.csproj.CoreCompileInputs.cache
+C:\Users\notma\source\repos\mindboxHH\mindboxHH\obj\Debug\net6.0\mindboxHH.dll
+C:\Users\notma\source\repos\mindboxHH\mindboxHH\obj\Debug\net6.0\refint\mindboxHH.dll
+C:\Users\notma\source\repos\mindboxHH\mindboxHH\obj\Debug\net6.0\mindboxHH.pdb
+C:\Users\notma\source\repos\mindboxHH\mindboxHH\obj\Debug\net6.0\ref\mindboxHH.dll
